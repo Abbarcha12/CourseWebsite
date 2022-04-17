@@ -1,0 +1,121 @@
+h1 {
+  font-family: Open Sans;
+  font-size: 28px !important;
+  font-weight: 700, bold;
+
+  color: #2f327d;
+}
+h4 {
+  color: #2f327d !important;
+}
+.Header {
+  background-color: #ffc410;
+
+  height: 75px;
+}
+
+.Logo img {
+  height: 47px;
+  /* width: 125px; */
+}
+.Icons img {
+  height: 40px;
+}
+.circle i {
+  margin: 8px !important;
+}
+.circle {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: #2f327d;
+  text-align: center;
+  color: white;
+}
+.circle1 {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: #2f327d;
+}
+.tBOLD h5 {
+  font-weight: bold !important;
+}
+.circle1 i {
+  margin-top: 8px !important;
+  margin-left: 8px;
+  color: #fff;
+  font-size: 12px !important;
+}
+.brand i {
+  font-size: 25px !important;
+  margin: 10px;
+}
+body {
+  background-color: #fcf3e7 !important;
+  /* overflow-x: hidden !important; */
+}
+.OVER h6 {
+  margin-left: 20px !important;
+  font-size: 17px !important;
+}
+@media only screen and (max-width: 500px) {
+  .OVER h6 {
+    font-size: 11px !important;
+  }
+  .divider {
+    width: 95%;
+  }
+}
+
+.star-icons {
+  margin-left: 10px;
+}
+.footer {
+  background-color: #ffc410;
+}
+.star-icons i {
+  color: #ffc410 !important;
+  margin: 2px;
+}
+.rating-text p {
+  color: #00000099;
+  font-size: 16px;
+}
+.card {
+  margin-top: 25px;
+}
+.Button {
+  margin-top: 30px !important;
+  background-color: #2f327d !important;
+  color: #fff !important;
+  margin-bottom: 20px !important;
+}
+
+.textOne {
+  margin-left: 10px;
+}
+
+.Effects {
+  border-bottom: 2px solid black !important;
+  color: #2f327d;
+}
+.Rating h3 {
+  font-size: 80px !important;
+  color: #f48c06;
+}
+.progress-bar1 {
+  background-color: #2f327d !important;
+}
+.progress-bar {
+  background-color: lightgrey !important;
+}
+.hundred {
+  color: #2f327d;
+}
+
+.divider {
+  position: relative;
+
+  top: -26px !important;
+}
